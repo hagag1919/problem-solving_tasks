@@ -1,0 +1,1 @@
+This is a sample array that have multi function and apply OOP concepts in this code.
