@@ -1,0 +1,1 @@
+It's some solutions to beginner level problems to apply the OOP concepts
